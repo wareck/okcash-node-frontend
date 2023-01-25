@@ -64,5 +64,5 @@ $config = array(
   'disk_space_mount_point'    => 'DRV',
   'timezone'                  => null,
   'stylesheet'                => 'v2-light.css',
-  'admin_email'               => 'admin@mymail.com',
+  'admin_email'               => 'admin@admin_mail.com',
 );
